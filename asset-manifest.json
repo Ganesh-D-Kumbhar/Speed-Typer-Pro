@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/Speed-Typer-Pro/static/css/main.e6908d83.css",
+    "main.js": "/Speed-Typer-Pro/static/js/main.b4deb6c5.js",
+    "static/js/453.4ad1c960.chunk.js": "/Speed-Typer-Pro/static/js/453.4ad1c960.chunk.js",
+    "static/media/sun.png": "/Speed-Typer-Pro/static/media/sun.5bc32ece95389c75aaf6.png",
+    "static/media/moon.png": "/Speed-Typer-Pro/static/media/moon.6fa800c51e11a07a1d94.png",
+    "index.html": "/Speed-Typer-Pro/index.html",
+    "main.e6908d83.css.map": "/Speed-Typer-Pro/static/css/main.e6908d83.css.map",
+    "main.b4deb6c5.js.map": "/Speed-Typer-Pro/static/js/main.b4deb6c5.js.map",
+    "453.4ad1c960.chunk.js.map": "/Speed-Typer-Pro/static/js/453.4ad1c960.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6908d83.css",
+    "static/js/main.b4deb6c5.js"
+  ]
+}
